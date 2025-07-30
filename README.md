@@ -77,7 +77,7 @@ Through this project:
 💡 **The best results** were achieved using a combination of class balancing, SHAP-based feature selection, and an optimized `XGBoost` model via GridSearch.
 
 
-## 🇹🇷 Bankacılık Verisi ile Vadeli Mevduat Tahmini
+# 🇹🇷 Bankacılık Verisi ile Vadeli Mevduat Tahmini
 
 Bu proje, **Bank Marketing** veri seti kullanılarak müşterilerin vadeli mevduat teklifine **"evet" veya "hayır"** deme olasılığını sınıflandırmayı amaçlamaktadır. Python dili ile geliştirilen bu çalışma; veri ön işleme, model karşılaştırmaları, dengesiz sınıf yapısı ile baş etme yöntemleri, hiperparametre optimizasyonu ve model açıklanabilirliği gibi adımları kapsamaktadır.
 
